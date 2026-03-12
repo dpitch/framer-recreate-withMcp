@@ -1,0 +1,24 @@
+{
+  "name": "responsive-component-maker",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },
+  "dependencies": {
+    "framer-plugin": "^3.10.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react-swc": "^4.0.1",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.11",
+    "vite-plugin-framer": "^1.0.7",
+    "vite-plugin-mkcert": "^1.17.8"
+  }
+}

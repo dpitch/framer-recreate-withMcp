@@ -1,0 +1,30 @@
+{
+  "name": "unframer-vite-react-typescript-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "stackblitz": {
+    "startCommand": "STACKBLITZ_DEMO_EXAMPLE=src/App.tsx npm run framer && npm run dev"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "framer": "unframer d047673748538c15 --outDir src/framer"
+  },
+  "dependencies": {
+    "@motionone/dom": "^10.13.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "unframer": "4.1.2"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@vitejs/plugin-react": "latest",
+    "tailwindcss": "^3.4.0",
+    "postcss": "^8.4.0",
+    "autoprefixer": "^10.4.0",
+    "typescript": "latest",
+    "vite": "latest"
+  }
+}

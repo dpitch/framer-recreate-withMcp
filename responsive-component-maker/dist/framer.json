@@ -1,0 +1,6 @@
+{
+  "id": "responsive-component-maker",
+  "name": "Responsive Component Maker",
+  "modes": ["canvas"],
+  "icon": "/icon.svg"
+}

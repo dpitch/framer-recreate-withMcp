@@ -1,0 +1,2085 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Lausanne Centre",
+        "type": "PV",
+        "ville": "Lausanne",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6323, 46.5197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Genève Plainpalais",
+        "type": "PV, PAC",
+        "ville": "Genève",
+        "canton": "GE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.1432, 46.2044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Ferme solaire Sion",
+        "type": "PV, Batterie",
+        "ville": "Sion",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3584, 46.2276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Neuchâtel Port",
+        "type": "PV, PAC, Batterie",
+        "ville": "Neuchâtel",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9311, 46.9930]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Montreux",
+        "type": "PV",
+        "ville": "Montreux",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9114, 46.4312]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Centre commercial Fribourg",
+        "type": "PV, PAC",
+        "ville": "Fribourg",
+        "canton": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1512, 46.8059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Yverdon",
+        "type": "PAC, Batterie",
+        "ville": "Yverdon-les-Bains",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6412, 46.7784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Martigny",
+        "type": "PV, Batterie",
+        "ville": "Martigny",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0731, 46.1024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Delémont",
+        "type": "PV",
+        "ville": "Delémont",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3467, 47.3667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Vevey",
+        "type": "PV, PAC",
+        "ville": "Vevey",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8433, 46.4601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Nyon",
+        "type": "PV",
+        "ville": "Nyon",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.2391, 46.3833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Sierre",
+        "type": "PV, PAC, Batterie",
+        "ville": "Sierre",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5349, 46.2919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation La Chaux-de-Fonds",
+        "type": "PV, Batterie",
+        "ville": "La Chaux-de-Fonds",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8266, 47.1059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Morges",
+        "type": "PV",
+        "ville": "Morges",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.4991, 46.5089]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Bulle",
+        "type": "PAC",
+        "ville": "Bulle",
+        "canton": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0567, 46.6156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Monthey",
+        "type": "PV, PAC",
+        "ville": "Monthey",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9583, 46.2556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Porrentruy",
+        "type": "PV, Batterie",
+        "ville": "Porrentruy",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0751, 47.4156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Aigle",
+        "type": "PV",
+        "ville": "Aigle",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9667, 46.3167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Le Locle",
+        "type": "PV, PAC",
+        "ville": "Le Locle",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.7489, 47.0567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Brig",
+        "type": "PV, Batterie",
+        "ville": "Brig",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.9878, 46.3156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Payerne",
+        "type": "PV",
+        "ville": "Payerne",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9378, 46.8211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Carouge",
+        "type": "PV, PAC",
+        "ville": "Carouge",
+        "canton": "GE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.1389, 46.1833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Romont",
+        "type": "Batterie",
+        "ville": "Romont",
+        "canton": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9167, 46.6944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Verbier",
+        "type": "PV, PAC, Batterie",
+        "ville": "Verbier",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2278, 46.0967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Saignelégier",
+        "type": "PV",
+        "ville": "Saignelégier",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0044, 47.2556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Rolle",
+        "type": "PV, Batterie",
+        "ville": "Rolle",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.3289, 46.4556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Fleurier",
+        "type": "PAC",
+        "ville": "Fleurier",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.5833, 46.9]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Visp",
+        "type": "PV, PAC",
+        "ville": "Visp",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.8844, 46.2944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Orbe",
+        "type": "PV, Batterie",
+        "ville": "Orbe",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.5333, 46.7167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Meyrin",
+        "type": "PV",
+        "ville": "Meyrin",
+        "canton": "GE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.0789, 46.2356]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Châtel-St-Denis",
+        "type": "PV, PAC, Batterie",
+        "ville": "Châtel-St-Denis",
+        "canton": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9056, 46.5244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Zermatt",
+        "type": "PV, Batterie",
+        "ville": "Zermatt",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.7489, 46.0207]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Grandson",
+        "type": "PAC, Batterie",
+        "ville": "Grandson",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6444, 46.8089]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Vernier",
+        "type": "PV",
+        "ville": "Vernier",
+        "canton": "GE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.0889, 46.2167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Estavayer-le-Lac",
+        "type": "PV, PAC",
+        "ville": "Estavayer-le-Lac",
+        "canton": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8444, 46.8489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Leukerbad",
+        "type": "PV, PAC, Batterie",
+        "ville": "Leukerbad",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6289, 46.3789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Moutier",
+        "type": "PV, Batterie",
+        "ville": "Moutier",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3711, 47.2756]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Pully",
+        "type": "PV",
+        "ville": "Pully",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6611, 46.5089]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Boudry",
+        "type": "PAC",
+        "ville": "Boudry",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8389, 46.9556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Crans-Montana",
+        "type": "PV, Batterie",
+        "ville": "Crans-Montana",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4856, 46.3111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Moudon",
+        "type": "PV, PAC",
+        "ville": "Moudon",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.7889, 46.6689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Lancy",
+        "type": "PV, Batterie",
+        "ville": "Lancy",
+        "canton": "GE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.1167, 46.1889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Murten",
+        "type": "Batterie",
+        "ville": "Murten",
+        "canton": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1111, 46.9278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Saas-Fee",
+        "type": "PV, PAC, Batterie",
+        "ville": "Saas-Fee",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.9289, 46.1089]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation St-Maurice",
+        "type": "PV",
+        "ville": "St-Maurice",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0044, 46.2167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Renens",
+        "type": "PV, PAC",
+        "ville": "Renens",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.5889, 46.5356]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Courtelary",
+        "type": "PV, Batterie",
+        "ville": "Courtelary",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0711, 47.1789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Val-de-Travers",
+        "type": "PAC, Batterie",
+        "ville": "Val-de-Travers",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6333, 46.9167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Fully",
+        "type": "PV, PAC, Batterie",
+        "ville": "Fully",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1156, 46.1356]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Ecublens",
+        "type": "PV",
+        "ville": "Ecublens",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.5611, 46.5244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Bex",
+        "type": "PV, PAC",
+        "ville": "Bex",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0156, 46.2511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Thonon",
+        "type": "Batterie",
+        "ville": "Thônex",
+        "canton": "GE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.1889, 46.1967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Gruyères",
+        "type": "PV",
+        "ville": "Gruyères",
+        "canton": "FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0833, 46.5833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Ardon",
+        "type": "PV, Batterie",
+        "ville": "Ardon",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2333, 46.2167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation St-Imier",
+        "type": "PAC",
+        "ville": "St-Imier",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0044, 47.1556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Cossonay",
+        "type": "PV, PAC",
+        "ville": "Cossonay",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.5089, 46.6156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Cernier",
+        "type": "PV",
+        "ville": "Cernier",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8944, 47.0556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Saxon",
+        "type": "PV, Batterie",
+        "ville": "Saxon",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1889, 46.1444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Tramelan",
+        "type": "PAC, Batterie",
+        "ville": "Tramelan",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1044, 47.2244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Aubonne",
+        "type": "PV",
+        "ville": "Aubonne",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.3889, 46.4944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Cortaillod",
+        "type": "PV, PAC",
+        "ville": "Cortaillod",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8556, 46.9444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Riddes",
+        "type": "Batterie",
+        "ville": "Riddes",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2044, 46.1667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Tavannes",
+        "type": "PV, Batterie",
+        "ville": "Tavannes",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2044, 47.2167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Vevey-Montreux",
+        "type": "PV, PAC, Batterie",
+        "ville": "La Tour-de-Peilz",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8611, 46.4556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Colombier",
+        "type": "PV",
+        "ville": "Colombier",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8667, 46.9667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Conthey",
+        "type": "PV, PAC",
+        "ville": "Conthey",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3044, 46.2167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Malleray",
+        "type": "PAC",
+        "ville": "Malleray",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2556, 47.2444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Lutry",
+        "type": "PV, Batterie",
+        "ville": "Lutry",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.6889, 46.5044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Peseux",
+        "type": "PV",
+        "ville": "Peseux",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8333, 46.9667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Leytron",
+        "type": "PV, PAC, Batterie",
+        "ville": "Leytron",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2167, 46.1833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Reconvilier",
+        "type": "Batterie",
+        "ville": "Reconvilier",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2333, 47.2333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Cully",
+        "type": "PV, PAC",
+        "ville": "Cully",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.7333, 46.4889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Corcelles",
+        "type": "PV",
+        "ville": "Corcelles-Cormondrèche",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8167, 46.9833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Chamoson",
+        "type": "PV, Batterie",
+        "ville": "Chamoson",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2167, 46.2]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Bévilard",
+        "type": "PAC, Batterie",
+        "ville": "Bévilard",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2833, 47.2444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Villeneuve",
+        "type": "PV, PAC, Batterie",
+        "ville": "Villeneuve",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9278, 46.4]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Hauterive",
+        "type": "PV",
+        "ville": "Hauterive",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9556, 46.9778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Salvan",
+        "type": "PV, PAC",
+        "ville": "Salvan",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0167, 46.1167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Sonceboz",
+        "type": "Batterie",
+        "ville": "Sonceboz-Sombeval",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1667, 47.1833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe St-Légier",
+        "type": "PV, Batterie",
+        "ville": "St-Légier-La Chiésaz",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8778, 46.4667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Marin",
+        "type": "PV, PAC",
+        "ville": "Marin-Epagnier",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0167, 47.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Orsières",
+        "type": "PV",
+        "ville": "Orsières",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1444, 46.0278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Lajoux",
+        "type": "PAC, Batterie",
+        "ville": "Lajoux",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0333, 47.3]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Blonay",
+        "type": "PV, PAC, Batterie",
+        "ville": "Blonay",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9, 46.4667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Lignières",
+        "type": "PV",
+        "ville": "Lignières",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0833, 47.0667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Bagnes",
+        "type": "PV, Batterie",
+        "ville": "Bagnes",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2, 46.0833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Souboz",
+        "type": "PAC",
+        "ville": "Souboz",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1833, 47.2]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Ollon",
+        "type": "PV, PAC",
+        "ville": "Ollon",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0167, 46.3]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Enges",
+        "type": "Batterie",
+        "ville": "Enges",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0333, 47.0833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Nendaz",
+        "type": "PV, PAC, Batterie",
+        "ville": "Nendaz",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3, 46.2]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Corgémont",
+        "type": "PV",
+        "ville": "Corgémont",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1333, 47.1833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Leysin",
+        "type": "PV, Batterie",
+        "ville": "Leysin",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2167, 46.3444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Thielle",
+        "type": "PV, PAC",
+        "ville": "Thielle-Wavre",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0667, 47.0167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Hérémence",
+        "type": "PAC",
+        "ville": "Hérémence",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4, 46.2]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Crémines",
+        "type": "PV, Batterie",
+        "ville": "Crémines",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4167, 47.2833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Château-d'Oex",
+        "type": "PV, PAC, Batterie",
+        "ville": "Château-d'Oex",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1333, 46.4833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Gorgier",
+        "type": "PV",
+        "ville": "Gorgier",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.7167, 46.9]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Evolène",
+        "type": "PV, PAC",
+        "ville": "Evolène",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5167, 46.1]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Vicques",
+        "type": "Batterie",
+        "ville": "Vicques",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4333, 47.3333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Rougemont",
+        "type": "PV, Batterie",
+        "ville": "Rougemont",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2, 46.4833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Bevaix",
+        "type": "PV, PAC",
+        "ville": "Bevaix",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8, 46.9167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Anniviers",
+        "type": "PV",
+        "ville": "Anniviers",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6, 46.2333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Courroux",
+        "type": "PAC, Batterie",
+        "ville": "Courroux",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3667, 47.3167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Rossinière",
+        "type": "PV, PAC, Batterie",
+        "ville": "Rossinière",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0833, 46.4667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Bôle",
+        "type": "PV",
+        "ville": "Bôle",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8167, 46.9333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Grimentz",
+        "type": "PV, Batterie",
+        "ville": "Grimentz",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5667, 46.1833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Develier",
+        "type": "PAC",
+        "ville": "Develier",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3, 47.3667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe L'Etivaz",
+        "type": "PV, PAC",
+        "ville": "L'Etivaz",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1167, 46.4167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Rochefort",
+        "type": "Batterie",
+        "ville": "Rochefort",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.7333, 46.9667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel St-Luc",
+        "type": "PV, PAC, Batterie",
+        "ville": "St-Luc",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6167, 46.2167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Bassecourt",
+        "type": "PV",
+        "ville": "Bassecourt",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2333, 47.3333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Villars-sur-Ollon",
+        "type": "PV, Batterie",
+        "ville": "Villars-sur-Ollon",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0667, 46.3]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Montmollin",
+        "type": "PV, PAC",
+        "ville": "Montmollin",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8833, 47.0167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Chandolin",
+        "type": "PAC",
+        "ville": "Chandolin",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6, 46.2]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Glovelier",
+        "type": "PV, Batterie",
+        "ville": "Glovelier",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2, 47.3667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Gryon",
+        "type": "PV, PAC, Batterie",
+        "ville": "Gryon",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0833, 46.2833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Chézard-St-Martin",
+        "type": "PV",
+        "ville": "Chézard-St-Martin",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9167, 47.0333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Vercorin",
+        "type": "PV, PAC",
+        "ville": "Vercorin",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5333, 46.2667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Boécourt",
+        "type": "Batterie",
+        "ville": "Boécourt",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1667, 47.3667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Bex-Villars",
+        "type": "PV, Batterie",
+        "ville": "Bex",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0333, 46.2667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Dombresson",
+        "type": "PV, PAC",
+        "ville": "Dombresson",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9333, 47.0167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Nax",
+        "type": "PV",
+        "ville": "Nax",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4333, 46.2333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Pleigne",
+        "type": "PAC, Batterie",
+        "ville": "Pleigne",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1, 47.4]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Ormont-Dessus",
+        "type": "PV, PAC, Batterie",
+        "ville": "Ormont-Dessus",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1667, 46.3667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Villiers",
+        "type": "PV",
+        "ville": "Villiers",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9667, 47.0333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Ayent",
+        "type": "PV, Batterie",
+        "ville": "Ayent",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.3833, 46.2833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Bourrignon",
+        "type": "PAC",
+        "ville": "Bourrignon",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2667, 47.4]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Ormont-Dessous",
+        "type": "PV, PAC",
+        "ville": "Ormont-Dessous",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1333, 46.3167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Le Landeron",
+        "type": "Batterie",
+        "ville": "Le Landeron",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0667, 47.0667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Lens",
+        "type": "PV, PAC, Batterie",
+        "ville": "Lens",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4167, 46.3]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Coeuve",
+        "type": "PV",
+        "ville": "Coeuve",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0167, 47.4167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Yvorne",
+        "type": "PV, Batterie",
+        "ville": "Yvorne",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9667, 46.3333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Cressier",
+        "type": "PV, PAC",
+        "ville": "Cressier",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0333, 47.0667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Icogne",
+        "type": "PAC",
+        "ville": "Icogne",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4667, 46.3167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Cornol",
+        "type": "PV, Batterie",
+        "ville": "Cornol",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1333, 47.4167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Lavey-Morcles",
+        "type": "PV, PAC, Batterie",
+        "ville": "Lavey-Morcles",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0167, 46.2167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Cornaux",
+        "type": "PV",
+        "ville": "Cornaux",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0167, 47.0833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Chippis",
+        "type": "PV, PAC",
+        "ville": "Chippis",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5333, 46.3]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Fontenais",
+        "type": "Batterie",
+        "ville": "Fontenais",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0833, 47.4]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Rennaz",
+        "type": "PV, Batterie",
+        "ville": "Rennaz",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9333, 46.3833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Wavre",
+        "type": "PV, PAC",
+        "ville": "Wavre",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0833, 47.0167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Miège",
+        "type": "PV",
+        "ville": "Miège",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5167, 46.3167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Bure",
+        "type": "PAC, Batterie",
+        "ville": "Bure",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0, 47.4167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Noville",
+        "type": "PV, PAC, Batterie",
+        "ville": "Noville",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9167, 46.3833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Fresens",
+        "type": "PV",
+        "ville": "Fresens",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8667, 46.8833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Venthône",
+        "type": "PV, Batterie",
+        "ville": "Venthône",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5, 46.3]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Fahy",
+        "type": "PAC",
+        "ville": "Fahy",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9667, 47.4333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Chessel",
+        "type": "PV, PAC",
+        "ville": "Chessel",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9, 46.3667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Montalchez",
+        "type": "Batterie",
+        "ville": "Montalchez",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.7833, 46.8833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Veyras",
+        "type": "PV, PAC, Batterie",
+        "ville": "Veyras",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.5167, 46.2833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Damphreux",
+        "type": "PV",
+        "ville": "Damphreux",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0333, 47.4333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Roche",
+        "type": "PV, Batterie",
+        "ville": "Roche",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.9833, 46.3667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Vaumarcus",
+        "type": "PV, PAC",
+        "ville": "Vaumarcus",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.7167, 46.9167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Randogne",
+        "type": "PAC",
+        "ville": "Randogne",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4833, 46.3167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Lugnez",
+        "type": "PV, Batterie",
+        "ville": "Lugnez",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1167, 47.3833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Corbeyrier",
+        "type": "PV, PAC, Batterie",
+        "ville": "Corbeyrier",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0333, 46.3167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Chez-le-Bart",
+        "type": "PV",
+        "ville": "Chez-le-Bart",
+        "canton": "NE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.7833, 46.9]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Résidentiel Mollens",
+        "type": "PV, PAC",
+        "ville": "Mollens",
+        "canton": "VS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4667, 46.2833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Installation Mettembert",
+        "type": "Batterie",
+        "ville": "Mettembert",
+        "canton": "JU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.2167, 47.3833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom": "Complexe Panex",
+        "type": "PV, Batterie",
+        "ville": "Panex",
+        "canton": "VD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1, 46.2833]
+      }
+    }
+  ]
+}   
